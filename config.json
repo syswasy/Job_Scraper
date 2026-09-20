@@ -331,7 +331,7 @@
       { "location": "Boisbriand, QC", "country": "Canada" },
       { "location": "Mirabel, QC", "country": "Canada" },
       { "location": "Saint-Eustache, QC", "country": "Canada" },
-      { "location": "Blainville, QC", "country": "Canada" },
+      { "location": "Blainville, QC", "country": "Canada" }
     ],
     "ziprecruiter": [
       { "location": "Montréal, QC", "country": "Canada" },
@@ -344,7 +344,7 @@
       { "location": "Boisbriand, QC", "country": "Canada" },
       { "location": "Mirabel, QC", "country": "Canada" },
       { "location": "Saint-Eustache, QC", "country": "Canada" },
-      { "location": "Blainville, QC", "country": "Canada" },
+      { "location": "Blainville, QC", "country": "Canada" }
     ],
     "google_jobs": [
       { "location": "Montréal, QC", "country": "Canada" },
@@ -357,7 +357,7 @@
       { "location": "Boisbriand, QC", "country": "Canada" },
       { "location": "Mirabel, QC", "country": "Canada" },
       { "location": "Saint-Eustache, QC", "country": "Canada" },
-      { "location": "Blainville, QC", "country": "Canada" },
+      { "location": "Blainville, QC", "country": "Canada" }
     ],
     "hiring_cafe": [
       { "location": "United States" }
