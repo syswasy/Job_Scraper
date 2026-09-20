@@ -200,32 +200,14 @@
   },
   "search_terms": {
     "linkedin": [
-      "new grad software developer",
-      "développeur logiciel",
       "software developer",
+      "développeur logiciel",
       "junior software developer",
-      "développeur web",
       "programmer analyst",
-      "analyste programmeur",
-      "web developer",
-      "full stack developer",
-      "backend developer",
-      "frontend developer",
       "QA analyst",
-      "analyste assurance qualité",
-      "QA tester",
-      "test automation",
       "business analyst",
-      "analyste d'affaires TI",
-      "systems analyst",
-      "IT analyst",
-      "data analyst",
-      "technical support",
-      "support technique TI",
-      "application support analyst",
-      "DevOps junior",
-      "junior developer Montréal",
-      "nouveau diplômé informatique"
+      "web developer",
+      "data analyst"
     ],
     "indeed": [
       "software developer",
@@ -260,15 +242,14 @@
       "IT support"
     ],
     "google_jobs": [
-      "software developer Montréal",
-      "développeur logiciel Montréal",
-      "programmer analyst Montréal",
-      "QA analyst Montréal",
+      "software developer",
+      "développeur logiciel",
+      "programmer analyst",
+      "QA analyst",
       "analyste assurance qualité",
-      "business analyst Montréal",
-      "junior developer Montréal",
-      "new grad software",
-      "IT analyst Montréal"
+      "business analyst",
+      "junior developer",
+      "IT analyst"
     ],
     "hiring_cafe": [
       "software developer",
@@ -286,78 +267,33 @@
       { "name": "Montréal", "location": "Montreal, Quebec, Canada", "geoId": "" },
       { "name": "Laval", "location": "Laval, Quebec, Canada", "geoId": "" },
       { "name": "Longueuil", "location": "Longueuil, Quebec, Canada", "geoId": "" },
-      { "name": "Brossard", "location": "Brossard, Quebec, Canada", "geoId": "" },
-      { "name": "Boucherville", "location": "Boucherville, Quebec, Canada", "geoId": "" },
-      { "name": "Terrebonne", "location": "Terrebonne, Quebec, Canada", "geoId": "" },
-      { "name": "Blainville", "location": "Blainville, Quebec, Canada", "geoId": "" },
-      { "name": "Dorval", "location": "Dorval, Quebec, Canada", "geoId": "" },
-      { "name": "Pointe-Claire", "location": "Pointe-Claire, Quebec, Canada", "geoId": "" },
-      { "name": "Saint-Laurent", "location": "Saint-Laurent, Quebec, Canada", "geoId": "" },
       { "name": "Québec (Remote)", "location": "Quebec, Canada", "geoId": "" },
-      { "name": "Canada (Remote)", "location": "Canada", "geoId": "" },
-      { "name": "Terrebonne", "location": "Terrebonne, Quebec, Canada", "geoId": "" },
-      { "name": "Boisbriand", "location": "Boisbriand, Quebec, Canada", "geoId": "" },
-      { "name": "Mirabel", "location": "Mirabel, Quebec, Canada", "geoId": "" },
-      { "name": "Saint-Eustache", "location": "Saint-Eustache, Quebec, Canada", "geoId": "" },
-      { "name": "Blainville", "location": "Blainville, Quebec, Canada", "geoId": "" },
-      { "name": "Dorval", "location": "Dorval, Quebec, Canada", "geoId": "" }
+      { "name": "Canada (Remote)", "location": "Canada", "geoId": "" }
     ],
     "indeed": [
       { "location": "Montréal, QC", "country": "Canada" },
       { "location": "Laval, QC", "country": "Canada" },
       { "location": "Longueuil, QC", "country": "Canada" },
-      { "location": "Brossard, QC", "country": "Canada" },
-      { "location": "Boucherville, QC", "country": "Canada" },
       { "location": "Terrebonne, QC", "country": "Canada" },
-      { "location": "Dorval, QC", "country": "Canada" },
-      { "location": "Pointe-Claire, QC", "country": "Canada" },
-      { "location": "Québec", "country": "Canada" },
-      { "location": "Terrebonne, QC", "country": "Canada" },
-      { "location": "Boisbriand, QC", "country": "Canada" },
-      { "location": "Mirabel, QC", "country": "Canada" },
-      { "location": "Saint-Eustache, QC", "country": "Canada" },
-      { "location": "Blainville, QC", "country": "Canada" },
-      { "location": "Dorval, QC", "country": "Canada" }
-      
+      { "location": "Québec", "country": "Canada" }
     ],
     "glassdoor": [
       { "location": "Montréal, QC", "country": "Canada" },
       { "location": "Laval, QC", "country": "Canada" },
       { "location": "Longueuil, QC", "country": "Canada" },
-      { "location": "Québec", "country": "Canada" },
-      { "location": "Montréal, QC", "country": "Canada" },
-      { "location": "Laval, QC", "country": "Canada" },
-      { "location": "Longueuil, QC", "country": "Canada" },
-      { "location": "Boisbriand, QC", "country": "Canada" },
-      { "location": "Mirabel, QC", "country": "Canada" },
-      { "location": "Saint-Eustache, QC", "country": "Canada" },
-      { "location": "Blainville, QC", "country": "Canada" }
+      { "location": "Québec", "country": "Canada" }
     ],
     "ziprecruiter": [
       { "location": "Montréal, QC", "country": "Canada" },
       { "location": "Laval, QC", "country": "Canada" },
       { "location": "Longueuil, QC", "country": "Canada" },
-      { "location": "Québec", "country": "Canada" },
-      { "location": "Montréal, QC", "country": "Canada" },
-      { "location": "Laval, QC", "country": "Canada" },
-      { "location": "Longueuil, QC", "country": "Canada" },
-      { "location": "Boisbriand, QC", "country": "Canada" },
-      { "location": "Mirabel, QC", "country": "Canada" },
-      { "location": "Saint-Eustache, QC", "country": "Canada" },
-      { "location": "Blainville, QC", "country": "Canada" }
+      { "location": "Québec", "country": "Canada" }
     ],
     "google_jobs": [
       { "location": "Montréal, QC", "country": "Canada" },
       { "location": "Laval, QC", "country": "Canada" },
       { "location": "Longueuil, QC", "country": "Canada" },
-      { "location": "Québec", "country": "Canada" },
-      { "location": "Montréal, QC", "country": "Canada" },
-      { "location": "Laval, QC", "country": "Canada" },
-      { "location": "Longueuil, QC", "country": "Canada" },
-      { "location": "Boisbriand, QC", "country": "Canada" },
-      { "location": "Mirabel, QC", "country": "Canada" },
-      { "location": "Saint-Eustache, QC", "country": "Canada" },
-      { "location": "Blainville, QC", "country": "Canada" }
+      { "location": "Québec", "country": "Canada" }
     ],
     "hiring_cafe": [
       { "location": "United States" }
@@ -378,7 +314,7 @@
   },
   "priority_topics": {
     "terms": [
-      ["New Grad / Entry Level", "\\b(new grad|nouveau dipl[oô]m[eé]|nouvelle dipl[oô]m[eé]e|recent graduate|graduate|entry[- ]level|junior|junior)\\b"],
+      ["New Grad / Entry Level", "\\b(new grad|nouveau dipl[oô]m[eé]|nouvelle dipl[oô]m[eé]e|recent graduate|graduate|entry[- ]level|junior)\\b"],
       ["Software Development", "\\b(software|logiciel|d[eé]velopp?(eur|euse)|developer|programm(er|eur|euse)|programmer analyst|analyste[- ]programmeu(r|se))\\b"],
       ["Quality Assurance / Testing", "\\b(qa|quality assurance|assurance qualit[eé]|analyste qualit[eé]|test(er|eur|ing)?|sdet|test automation)\\b"],
       ["Business / Systems Analysis", "\\b(business analyst|analyste d'affaires|systems? analyst|analyste (de )?syst[eè]mes?|it analyst|analyste ti|analyste fonctionnel)\\b"],
