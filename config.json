@@ -167,7 +167,9 @@
       "junior software",
       "junior analyst",
       "développeur junior",
-      "analyste junior"
+      "analyste junior",
+      "analyste ",
+      "analyst"
     ],
     "exclude": [
       "intern",
@@ -195,7 +197,14 @@
       "étudiant d'été",
       "student position",
       "étudiant",
-      "senior"
+      "senior",
+      "lead",
+      "principal",
+      "manager",
+      "director",
+      "directeur",
+      "gestionnaire",
+      "chef d'équipe"
     ]
   },
   "search_terms": {
