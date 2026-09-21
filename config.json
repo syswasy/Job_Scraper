@@ -168,8 +168,26 @@
       "junior analyst",
       "développeur junior",
       "analyste junior",
-      "analyste ",
-      "analyst"
+      "analyst",
+      "analyste",
+      "development",
+      "développement",
+      "software",
+      "logiciel",
+      "frontend",
+      "front end",
+      "front-end",
+      "backend",
+      "back end",
+      "back-end",
+      "full stack",
+      "full-stack",
+      "react",
+      "angular",
+      ".net",
+      "informatique",
+      "intégrateur",
+      "integrator"
     ],
     "exclude": [
       "intern",
@@ -200,10 +218,8 @@
       "senior",
       "lead",
       "principal",
-      "manager",
       "director",
       "directeur",
-      "gestionnaire",
       "chef d'équipe"
     ]
   },
@@ -221,6 +237,11 @@
     "indeed": [
       "software developer",
       "développeur",
+      "développeur front-end",
+      "front end developer",
+      "React developer",
+      ".NET developer",
+      "full stack developer",
       "programmer analyst",
       "analyste programmeur",
       "QA analyst",
@@ -283,6 +304,9 @@
       { "location": "Montréal, QC", "country": "Canada" },
       { "location": "Laval, QC", "country": "Canada" },
       { "location": "Longueuil, QC", "country": "Canada" },
+      { "location": "Brossard, QC", "country": "Canada" },
+      { "location": "Saint-Laurent, QC", "country": "Canada" },
+      { "location": "Boucherville, QC", "country": "Canada" },
       { "location": "Terrebonne, QC", "country": "Canada" },
       { "location": "Québec", "country": "Canada" }
     ],
@@ -290,18 +314,21 @@
       { "location": "Montréal, QC", "country": "Canada" },
       { "location": "Laval, QC", "country": "Canada" },
       { "location": "Longueuil, QC", "country": "Canada" },
+      { "location": "Brossard, QC", "country": "Canada" },
       { "location": "Québec", "country": "Canada" }
     ],
     "ziprecruiter": [
       { "location": "Montréal, QC", "country": "Canada" },
       { "location": "Laval, QC", "country": "Canada" },
       { "location": "Longueuil, QC", "country": "Canada" },
+      { "location": "Brossard, QC", "country": "Canada" },
       { "location": "Québec", "country": "Canada" }
     ],
     "google_jobs": [
       { "location": "Montréal, QC", "country": "Canada" },
       { "location": "Laval, QC", "country": "Canada" },
       { "location": "Longueuil, QC", "country": "Canada" },
+      { "location": "Brossard, QC", "country": "Canada" },
       { "location": "Québec", "country": "Canada" }
     ],
     "hiring_cafe": [
