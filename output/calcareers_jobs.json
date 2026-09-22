@@ -1,15 +1,15 @@
 {
-  "scraped_at": "2026-09-21 20:24 UTC",
-  "total": 6,
-  "new_count": 6,
+  "scraped_at": "2026-09-22 19:43 UTC",
+  "total": 5,
+  "new_count": 0,
   "jobs": [
     {
-      "company": "State Air Resources Board",
-      "title": "Source Test Engineer",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531604",
-      "date_posted": "2026-09-11",
-      "salary": "$6488.00 - $12152.00",
+      "company": "Judicial Council of California",
+      "title": "Human Resources Analyst JO#6689",
+      "location": "San Francisco County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529710",
+      "date_posted": "2026-08-24",
+      "salary": "$7513.00 - $11270.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
@@ -28,23 +28,11 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Governor's Office of Business and Economic Development (GO-Biz)",
-      "title": "IT Analyst",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531338",
-      "date_posted": "2026-09-10",
-      "salary": "$4935.00 - $8740.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "12 Month Limited Term - Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Franchise Tax Board",
-      "title": "Data Engineer",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531766",
-      "date_posted": "2026-09-11",
+      "company": "Department of Water Resources",
+      "title": "CLIENT SERVICES ANALYST",
+      "location": "Fresno County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529964",
+      "date_posted": "2026-09-22",
       "salary": "$4935.00 - $8740.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
@@ -76,78 +64,5 @@
       "work_arrangement": "Telecommute eligible"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "State Air Resources Board",
-      "title": "Source Test Engineer",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531604",
-      "date_posted": "2026-09-11",
-      "salary": "$6488.00 - $12152.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Franchise Tax Board",
-      "title": "Operations Analyst",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527762",
-      "date_posted": "2026-09-16",
-      "salary": "$4935.00 - $8740.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Governor's Office of Business and Economic Development (GO-Biz)",
-      "title": "IT Analyst",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531338",
-      "date_posted": "2026-09-10",
-      "salary": "$4935.00 - $8740.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "12 Month Limited Term - Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Franchise Tax Board",
-      "title": "Data Engineer",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531766",
-      "date_posted": "2026-09-11",
-      "salary": "$4935.00 - $8740.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of State Hospitals",
-      "title": "Analyst I/Analyst II- Health and Safety-Standards Compliance - Metropolitan State Hospital - 26-403",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531246",
-      "date_posted": "2026-09-15",
-      "salary": "$3861.00 - $6276.00",
-      "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Department of Developmental Services - Headquarters",
-      "title": "Health & Safety Analyst II",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532072",
-      "date_posted": "2026-09-15",
-      "salary": "$6031.00 - $7547.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    }
-  ]
+  "new_jobs": []
 }
