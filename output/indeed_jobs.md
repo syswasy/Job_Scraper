@@ -1,22 +1,9 @@
 # 🟦 Indeed — Syrine's Roles
-*Last updated: 2026-09-22 01:56 UTC*
+*Last updated: 2026-09-22 07:59 UTC*
 
-**3 new role(s)** since last run · 51 total in last 24h
+**1 new role(s)** since last run · 49 total in last 24h
 
-### [Manager, Software Development](https://ca.indeed.com/viewjob?jk=d4729be8ae5b0f71) — Intact
-- 📍 **Location:** Saint-Hyacinthe, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
-
-### [Manager, Software Development](https://ca.indeed.com/viewjob?jk=97d5d143b75028b1) — Intact
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
-
-### [Technicien·ne informatique - Support niveau 1](https://ca.indeed.com/viewjob?jk=d9c067d8fbae5dc8) — Annexair Inc.
-- 📍 **Location:** Saint-Germain-de-Grantham, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Développeur / développeuse en intelligence artificielle](https://ca.indeed.com/viewjob?jk=72eb612ed7f7779c) — BMR
+- 📍 **Location:** Boucherville, QC, CA
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-09-21
