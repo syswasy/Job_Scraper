@@ -1,78 +1,75 @@
 # 🟦 Indeed — Syrine's Roles
-*Last updated: 2026-09-23 00:59 UTC*
+*Last updated: 2026-09-23 06:46 UTC*
 
-**13 new role(s)** since last run · 52 total in last 24h
+**12 new role(s)** since last run · 63 total in last 24h
 
-### [JAVA Fullstack Developer](https://ca.indeed.com/viewjob?jk=967bc591f8157536) — Capgemini
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-22
-
-### [Software Developer II](https://ca.indeed.com/viewjob?jk=7607656d50693381) — Trane Technologies
+### [AI Expert developer](https://ca.indeed.com/viewjob?jk=024604290b8a8003) — CGI
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [Data Analyst Developer](https://ca.indeed.com/viewjob?jk=499965f43381b762) — Unknown
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-22
-
-### [Data Analyst Developer](https://ca.indeed.com/viewjob?jk=767ab0e9499679f3) — Unknown
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-22
-
-### [AI developer - data generation](https://ca.indeed.com/viewjob?jk=d375f7f40ff7167e) — GenAIz
+### [Head of Business Development bilingue, Canada anglais](https://ca.indeed.com/viewjob?jk=b1974ee419f97c96) — adn | conférencier.e.s
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [Développeur·euse et analyste de données](https://ca.indeed.com/viewjob?jk=9d926e8b3468c49f) — Unknown
+### [Product Tools & AI Automation Developer](https://ca.indeed.com/viewjob?jk=a1a59ca6b601d33b) — Croesus
+- 📍 **Location:** Laval, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Développeur(euse) logiciel / Software Developer - Dynamics / Power Platform](https://ca.indeed.com/viewjob?jk=40e9b84e7c5eef6f) — GENETEC
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-01-27
+
+### [Développeur expert IA](https://ca.indeed.com/viewjob?jk=d4aeaadcf87fb536) — CGI
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [Développeur·euse et analyste de données](https://ca.indeed.com/viewjob?jk=5cd7e7db2baab6c7) — Unknown
+### [Développeur de tests automatisés (SDET)](https://ca.indeed.com/viewjob?jk=b57232e483fc7c01) — CGI
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [Analyst, Strategy & Business Development](https://ca.indeed.com/viewjob?jk=dde6ce4f171f0e6c) — Bombardier
-- 📍 **Location:** Dorval, QC, CA
+### [Coordonnateur interventions – Traçabilité / Certificat de conformité électronique et analyste de données SQA / eCofC / Traceability Coordinator & Data Analyst (SQA)](https://ca.indeed.com/viewjob?jk=9992ef4acd938ac4) — Pratt & Whitney
+- 📍 **Location:** Longueuil, QC, CA
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [Business Analyst](https://ca.indeed.com/viewjob?jk=07da0fe53f44e6b1) — CGI
+### [Finance & Risk Solutions Business Analyst](https://ca.indeed.com/viewjob?jk=f3905bc305bb8125) — BNP Paribas
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [Analyst, Credit Risk Quantification - IFRS9 Provisioning](https://ca.indeed.com/viewjob?jk=4ad4b3df97b5b98e) — Laurentian Bank Financial Group
+### [Business Analyst](https://ca.indeed.com/viewjob?jk=ad8841e50ad813f1) — Unknown
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Analyste financier(-ère) | Financial Analyst](https://ca.indeed.com/viewjob?jk=cee6bad5b1f8010a) — Valsoft
+- 📍 **Location:** Saint-Laurent, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-23
+
+### [Bilingual Financial Analyst](https://ca.indeed.com/viewjob?jk=801452ca40a18c87) — McCarthy Tétrault
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [GIS Analyst](https://ca.indeed.com/viewjob?jk=70aaf5d59b466050) — AtkinsRéalis
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-22
-
-### [HR Analyst, Programs, Events and Services](https://ca.indeed.com/viewjob?jk=6161e3113851babd) — Bombardier
-- 📍 **Location:** Dorval, QC, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-22
-
-### [Analyste sénior en gouvernance TI](https://ca.indeed.com/viewjob?jk=8b0249004174581f) — REVAU
+### [Registrations Analyst, Regulatory Registrations - Bilingual](https://ca.indeed.com/viewjob?jk=4228ee081bcc6dab) — CIBC
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
