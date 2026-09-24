@@ -1,78 +1,72 @@
 # 🟦 Indeed — Syrine's Roles
-*Last updated: 2026-09-24 19:32 UTC*
+*Last updated: 2026-09-24 22:46 UTC*
 
-**13 new role(s)** since last run · 32 total in last 24h
+**12 new role(s)** since last run · 31 total in last 24h
 
-### [Sr. Developer - Application Development N 4B](https://ca.indeed.com/viewjob?jk=4a56b53552c80cd6) — GENPACT CANADA SERVICES COMPANY
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
-
-### [Spécialiste en développement logiciel, IA et modernisation/Software Development Specialist, AI & Modernization](https://ca.indeed.com/viewjob?jk=e209b35c445790ab) — McKesson
-- 📍 **Location:** Saint-Laurent, QC, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-24
-
-### [3D Programmer - (Assassin's Creed HEXE)](https://ca.indeed.com/viewjob?jk=cb2304738d771231) — Ubisoft
+### [Développeur(se) logiciel IA/Software Designer Sherlock AI](https://ca.indeed.com/viewjob?jk=e4daae36fb9eddfd) — Teledyne FLIR
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [.NET Developer – Epicor ERP](https://ca.indeed.com/viewjob?jk=2f72ea1e2b32282c) — JobsMedia
-- 📍 **Location:** Sainte-Julie, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Development Engineer in Test (SDET)](https://ca.indeed.com/viewjob?jk=16efb02d329b9790) — Valsoft
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
-
-### [Integration & Test Software Engineer](https://ca.indeed.com/viewjob?jk=f1c7506edb2da030) — L3Harris
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-24
-
-### [Développeur logiciel - Analyse d'essai moteur / Software Developer - Engine Test Analysis](https://ca.indeed.com/viewjob?jk=3d29deda0f585ad3) — Pratt & Whitney
+### [DÉVELOPPEUR PYTHON JUNIOR / INTERMÉDIAIRE](https://ca.indeed.com/viewjob?jk=5babbac2e8198840) — Gravity Conseil
 - 📍 **Location:** Longueuil, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-24
+
+### [Développeur .NET Sénior – Azure & Intégration Applicative](https://ca.indeed.com/viewjob?jk=3726e7718cbf75cd) — CGI
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Développeur .NET Sénior – Azure & Intégration Applicative](https://ca.indeed.com/viewjob?jk=7ce738a1f0d7e137) — CGI
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Analyste programmeur(-euse) - Service applicatifs et intégrations](https://ca.indeed.com/viewjob?jk=b53321f948e26116) — Réseau de transport de Longueuil
+- 📍 **Location:** Longueuil, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-24
+
+### [IT - Business Analyst](https://ca.indeed.com/viewjob?jk=079260f0520611e2) — CCM Hockey
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Application Support Analyst (Junior)](https://ca.indeed.com/viewjob?jk=2f28afe675bf0552) — CGI
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Analyst I - Immunochemistry](https://ca.indeed.com/viewjob?jk=c006863a441412a3) — Charles River Laboratories
+- 📍 **Location:** Senneville, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-23
 
-### [Développeur(se) IA Intermédiaire](https://ca.indeed.com/viewjob?jk=1e45f904b00230a5) — Intact
+### [Analyst, CN Communication Center - 12 months contract](https://ca.indeed.com/viewjob?jk=5bdcc190ada9a76c) — Canadian National Railway
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-09-20
+
+### [Analyste de soutien aux applications (junior)](https://ca.indeed.com/viewjob?jk=82d91598fa433f17) — CGI
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Développeur .NET – Epicor ERP](https://ca.indeed.com/viewjob?jk=e020dac656f5a2d1) — JobsMedia
-- 📍 **Location:** Sainte-Julie, QC, CA
+### [Automation and integration developer](https://ca.indeed.com/viewjob?jk=bf2c040fc2b97bf2) — S3 TECHNOLOGIES INC.
+- 📍 **Location:** QC, CA
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Analyst, Business Intelligence](https://ca.indeed.com/viewjob?jk=ea81bdf59bc96109) — Bombardier
-- 📍 **Location:** Pointe-Claire, QC, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-24
-
-### [Analyste des systèmes d’affaires/Business Systems Analyst](https://ca.indeed.com/viewjob?jk=9968cb78b4b33f3f) — McKesson
-- 📍 **Location:** Saint-Laurent, QC, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-24
-
-### [U.S. Tax Analyst](https://ca.indeed.com/viewjob?jk=f7355537f1b82b6b) — CAE
-- 📍 **Location:** Saint-Laurent, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
-
-### [Technicien(ne) informatique, soutien aux utilisateurs](https://ca.indeed.com/viewjob?jk=80db10b4a3b8ac6d) — Bow Groupe de Plomberie
-- 📍 **Location:** Granby, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Développeur(-euse) en automatisation et intégration](https://ca.indeed.com/viewjob?jk=1d0a3f17d344cbe7) — S3 TECHNOLOGIES INC.
+- 📍 **Location:** QC, CA
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-09-24
