@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-24 19:58 UTC",
-  "total": 4,
+  "scraped_at": "2026-09-25 20:00 UTC",
+  "total": 5,
   "new_count": 0,
   "jobs": [
     {
@@ -38,6 +38,18 @@
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
+    },
+    {
+      "company": "California Governor's Office of Emergency Services",
+      "title": "Analyst II",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523035",
+      "date_posted": "2026-09-25",
+      "salary": "$6031.00 - $7547.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "Department of Developmental Services - Headquarters",
