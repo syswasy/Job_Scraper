@@ -1,22 +1,10 @@
 # 🟦 Indeed — Syrine's Roles
-*Last updated: 2026-09-26 08:02 UTC*
+*Last updated: 2026-09-26 18:47 UTC*
 
-**3 new role(s)** since last run · 33 total in last 24h
+**1 new role(s)** since last run · 26 total in last 24h
 
-### [Développeur·euse Frontend React](https://ca.indeed.com/viewjob?jk=a6df58028b7e42ed) — Maplr
+### [Développeur full-stack](https://ca.indeed.com/viewjob?jk=af24014a1c07e500) — Unknown
 - 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [Operations Program Analyst](https://ca.indeed.com/viewjob?jk=27a28b650ff85d8e) — Pratt & Whitney
-- 📍 **Location:** Longueuil, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [Analyst - Securities Borrowing and Lending](https://ca.indeed.com/viewjob?jk=c65e9fc6dd43d558) — National Bank of Canada
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2025-12-03
+- 🕒 **Posted:** 2026-09-26
