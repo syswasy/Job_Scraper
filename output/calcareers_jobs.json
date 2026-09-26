@@ -1,49 +1,37 @@
 {
-  "scraped_at": "2026-09-25 20:00 UTC",
+  "scraped_at": "2026-09-26 19:11 UTC",
   "total": 5,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Franchise Tax Board",
-      "title": "Operations Analyst",
+      "company": "Department of FISCal",
+      "title": "FI$Cal Functional Analyst",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527762",
-      "date_posted": "2026-09-16",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533110",
+      "date_posted": "2026-09-23",
       "salary": "$4935.00 - $8740.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Water Resources",
-      "title": "CLIENT SERVICES ANALYST",
-      "location": "Fresno County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529964",
-      "date_posted": "2026-09-22",
-      "salary": "$4935.00 - $8740.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of State Hospitals",
-      "title": "Analyst I/Analyst II- Health and Safety-Standards Compliance - Metropolitan State Hospital - 26-403",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531246",
-      "date_posted": "2026-09-15",
-      "salary": "$3861.00 - $6276.00",
-      "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "On-site"
     },
     {
       "company": "California Governor's Office of Emergency Services",
       "title": "Analyst II",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523035",
+      "date_posted": "2026-09-25",
+      "salary": "$6031.00 - $7547.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "California Governor's Office of Emergency Services",
+      "title": "Appeals and Correspondence Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533383",
       "date_posted": "2026-09-25",
       "salary": "$6031.00 - $7547.00",
       "ats": "CalCareers",
@@ -61,6 +49,18 @@
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "State Air Resources Board",
+      "title": "Budget Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533408",
+      "date_posted": "2026-09-25",
+      "salary": "$6031.00 - $7547.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "12 Month Limited Term - Full Time",
       "work_arrangement": "Telecommute eligible"
     }
   ],
