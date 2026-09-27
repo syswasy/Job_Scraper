@@ -1,14 +1,26 @@
 {
-  "scraped_at": "2026-09-26 19:11 UTC",
-  "total": 5,
+  "scraped_at": "2026-09-27 19:44 UTC",
+  "total": 6,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Department of FISCal",
-      "title": "FI$Cal Functional Analyst",
+      "company": "Franchise Tax Board",
+      "title": "Operations Analyst",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533110",
-      "date_posted": "2026-09-23",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527762",
+      "date_posted": "2026-09-16",
+      "salary": "$4935.00 - $8740.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Water Resources",
+      "title": "CLIENT SERVICES ANALYST",
+      "location": "Fresno County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529964",
+      "date_posted": "2026-09-22",
       "salary": "$4935.00 - $8740.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
