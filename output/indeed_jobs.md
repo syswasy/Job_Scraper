@@ -1,62 +1,33 @@
 # 🟦 Indeed — Syrine's Roles
-*Last updated: 2026-09-29 01:18 UTC*
+*Last updated: 2026-09-29 07:34 UTC*
 
-**10 new role(s)** since last run · 40 total in last 24h
+**5 new role(s)** since last run · 44 total in last 24h
 
-### [Data Analyst Developer](https://ca.indeed.com/viewjob?jk=5e66e126bc0c1eda) — Unknown
+### [Développeur(euse) Logiciel Drivers / Drivers Software Developer](https://ca.indeed.com/viewjob?jk=59b0924d7cf73977) — Opal-RT
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-28
+
+### [développeur/développeuse de cycle complet](https://ca.indeed.com/viewjob?jk=f535e42c17666096) — Géothentic
+- 📍 **Location:** Laval, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Head, Business Intelligence Unit](https://ca.indeed.com/viewjob?jk=342b571b76a97641) — National Film Board of Canada
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Data Analyst Developer](https://ca.indeed.com/viewjob?jk=29be4cc7060776f1) — Unknown
+### [Analyst, Business Intelligence and Performance Measurement](https://ca.indeed.com/viewjob?jk=acefce7fe4034ebe) — National Film Board of Canada
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Développeur·euse et analyste de données](https://ca.indeed.com/viewjob?jk=89f1a722ac279a67) — Unknown
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Développeur·euse et analyste de données](https://ca.indeed.com/viewjob?jk=19c90ce83e22a444) — Unknown
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Quality Assurance Analyst, OHdio Team (French Services) (Telework/Hybrid)](https://ca.indeed.com/viewjob?jk=6513528db229d680) — CBC/Radio-Canada
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Analyste Assurance Qualité, Équipe OHdio (Services français) (télétravail/hybride)](https://ca.indeed.com/viewjob?jk=f2e9cde534be244e) — CBC/Radio-Canada
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Analyst, Project Management - Industrial Strategy](https://ca.indeed.com/viewjob?jk=f2942c6fa2329fa5) — Bombardier
-- 📍 **Location:** Saint-Laurent, QC, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Analyst, Marketing, Brand & Communications Strategy and Governance](https://ca.indeed.com/viewjob?jk=3ae8d4c87dc75240) — Bombardier
-- 📍 **Location:** Dorval, QC, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Analyste qualité – Automatisation](https://ca.indeed.com/viewjob?jk=411f3f44162d15f4) — CGI
-- 📍 **Location:** Quebec City, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Business Analyst](https://ca.indeed.com/viewjob?jk=b3d1ed3ef9113207) — Prelco
-- 📍 **Location:** Rivière-du-Loup, QC, CA
+### [Salesforce & RevOps Systems Administrator](https://ca.indeed.com/viewjob?jk=4acfbc7582f9048b) — Amilia
+- 📍 **Location:** Greater Montreal Area, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
