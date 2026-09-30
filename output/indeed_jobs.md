@@ -1,98 +1,91 @@
 # 🟦 Indeed — Syrine's Roles
-*Last updated: 2026-09-29 20:16 UTC*
+*Last updated: 2026-09-30 00:00 UTC*
 
-**16 new role(s)** since last run · 31 total in last 24h
+**15 new role(s)** since last run · 36 total in last 24h
 
-### [Frontend Developer](https://ca.indeed.com/viewjob?jk=aaba3af93a819b2f) — Web Hosting Canada
-- 📍 **Location:** Saint-Michel, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Sr. Developer - Application Development JAVA N 4B](https://ca.indeed.com/viewjob?jk=a1c06c0fd5999451) — GENPACT CANADA SERVICES COMPANY
-- 📍 **Location:** Montréal, QC, CA
+### [Full Stack Developer](https://ca.indeed.com/viewjob?jk=4adfd042fae70557) — SBX Technologies Inc.
+- 📍 **Location:** Brossard, QC, CA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Développeur(se) Web Full Stack](https://ca.indeed.com/viewjob?jk=ac0bc80555ecfa08) — Codems
-- 📍 **Location:** Blainville, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Développeur Python](https://ca.indeed.com/viewjob?jk=c4aa03cd605e8a9d) — Sopra Steria
+### [Analyste-développeur, Salesforce](https://ca.indeed.com/viewjob?jk=cb1a860dcb508186) — Investissement Québec
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Développeur(euse) Frontend](https://ca.indeed.com/viewjob?jk=749a5a40587f633d) — Web Hosting Canada
-- 📍 **Location:** Saint-Michel, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Technical Business Analyst (Sales Product Management Portfolio)](https://ca.indeed.com/viewjob?jk=db7205a3297a2595) — Air Canada
-- 📍 **Location:** Dorval, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Data Quality Analyst (Onsite) - Multiple Languages Needed](https://ca.indeed.com/viewjob?jk=b38633180f673577) — DataForce by TransPerfect
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Business Analyst](https://ca.indeed.com/viewjob?jk=90846ccba10fa96b) — Sopra Steria
+### [Développeur Python](https://ca.indeed.com/viewjob?jk=9b1e5dd1688a5a30) — Sopra Steria
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [FP&A Analyst](https://ca.indeed.com/viewjob?jk=70709136acdfbaaf) — Behavox
+### [Développeur Python](https://ca.indeed.com/viewjob?jk=5a9b63a40d8eadc7) — Sopra Steria
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-29
 
-### [Operations Program Analyst / Engineer](https://ca.indeed.com/viewjob?jk=0c1e215874bf6094) — Pratt & Whitney
-- 📍 **Location:** Longueuil, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Operations Program Engineer/Analyst](https://ca.indeed.com/viewjob?jk=c03433b943982c47) — Pratt & Whitney
-- 📍 **Location:** Longueuil, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Finacial Analyst, Capital Markets / Analyst financier(ère), Marché des Capitaux](https://ca.indeed.com/viewjob?jk=391ce6bd11ff6f4d) — Avison Young
+### [DÉVELOPPEUR POWER APPS ET POWER BI](https://ca.indeed.com/viewjob?jk=d2d74905ee4f6d7d) — Gravity Conseil
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
-- **Job type:** temporary
-- 🕒 **Posted:** 2026-09-28
+- 🕒 **Posted:** 2026-09-29
 
-### [Finacial Analyst, Capital Markets / Analyst financier(ère), Marché des Capitaux](https://ca.indeed.com/viewjob?jk=23528cecb3f7efa8) — Avison Young
+### [Analyste SAP Sécurité](https://ca.indeed.com/viewjob?jk=5d5c27ab2e253b2f) — CGI
 - 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** temporary
-- 🕒 **Posted:** 2026-09-28
-
-### [Administrateur(trice) de systèmes / System Administrator](https://ca.indeed.com/viewjob?jk=402f8be480b6e9af) — TOOTSI IMPEX INC
-- 📍 **Location:** Saint-Laurent, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [IT Support Technician (1 yr contract)](https://ca.indeed.com/viewjob?jk=4e8beaa05b41322b) — Timiskaming First Nation
-- 📍 **Location:** Notre-dame-du-nord, QC, CA
+### [Business Analyst](https://ca.indeed.com/viewjob?jk=1dbb082022dc0978) — Sopra Steria
+- 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
-- **Job type:** fulltime, contract
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [TECHNICIEN EN SOUTIEN INFORMATIQUE ET APPLICATIF](https://ca.indeed.com/viewjob?jk=24edb60924fab315) — Desharnais Pneus & Mécanique
+### [Manager – Market Analytics & Business Intelligence](https://ca.indeed.com/viewjob?jk=847882ed5fb2a7c5) — AbbVie
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Business Analyst](https://ca.indeed.com/viewjob?jk=f48537b68b8e9559) — Sopra Steria
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-29
+
+### [IT Coordinator / Scrum Master](https://ca.indeed.com/viewjob?jk=b82d174172f78c83) — Pomerleau
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Analyst, Integrated Fixed Income](https://ca.indeed.com/viewjob?jk=2ca2eb1fc4697dda) — Fiera Capital
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [SAP Security Analyst](https://ca.indeed.com/viewjob?jk=7617e75b84e1284b) — CGI
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Junior Software Engineer, Emergency Call Handling](https://ca.indeed.com/viewjob?jk=04ed64b74df5d49c) — Motorola Solutions
+- 📍 **Location:** Gatineau, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Jr. Software Engineer - Java, Angular, JavaScript](https://ca.indeed.com/viewjob?jk=3e0b3ceebc87f78c) — Motorola Solutions
+- 📍 **Location:** Gatineau, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Développeur Mulesoft Bilingue](https://ca.indeed.com/viewjob?jk=509da5064a5cb8ab) — CGI
 - 📍 **Location:** Quebec City, QC, CA
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
