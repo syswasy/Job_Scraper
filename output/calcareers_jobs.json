@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-30 20:46 UTC",
-  "total": 4,
+  "scraped_at": "2026-10-01 21:00 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
     {
@@ -16,12 +16,36 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
+      "company": "Department of Managed Health Care",
+      "title": "Information Technology (IT) Business Analyst and Change Control Support",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518137",
+      "date_posted": "2026-08-21",
+      "salary": "$4935.00 - $8740.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
       "company": "Department of Water Resources",
       "title": "CLIENT SERVICES ANALYST",
       "location": "Fresno County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529964",
       "date_posted": "2026-09-22",
       "salary": "$4935.00 - $8740.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "California Governor's Office of Emergency Services",
+      "title": "Analyst I",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533955",
+      "date_posted": "2026-09-30",
+      "salary": "$3861.00 - $6276.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
@@ -49,6 +73,18 @@
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "State Air Resources Board",
+      "title": "Budget Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533408",
+      "date_posted": "2026-09-25",
+      "salary": "$6031.00 - $7547.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "12 Month Limited Term - Full Time",
       "work_arrangement": "Telecommute eligible"
     }
   ],
