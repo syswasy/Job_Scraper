@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-01 21:00 UTC",
-  "total": 7,
+  "scraped_at": "2026-10-02 20:40 UTC",
+  "total": 8,
   "new_count": 0,
   "jobs": [
     {
@@ -40,6 +40,18 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
+      "company": "CA Department of Tax and Fee Administration",
+      "title": "Telecom and IT Procurement Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532667",
+      "date_posted": "2026-09-22",
+      "salary": "$4935.00 - $8740.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
       "company": "California Governor's Office of Emergency Services",
       "title": "Analyst I",
       "location": "Sacramento County",
@@ -53,9 +65,9 @@
     },
     {
       "company": "California Governor's Office of Emergency Services",
-      "title": "Analyst II",
+      "title": "Appeals and Correspondence Analyst",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523035",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533383",
       "date_posted": "2026-09-25",
       "salary": "$6031.00 - $7547.00",
       "ats": "CalCareers",
@@ -65,9 +77,9 @@
     },
     {
       "company": "California Governor's Office of Emergency Services",
-      "title": "Appeals and Correspondence Analyst",
+      "title": "Analyst II",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533383",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523035",
       "date_posted": "2026-09-25",
       "salary": "$6031.00 - $7547.00",
       "ats": "CalCareers",
