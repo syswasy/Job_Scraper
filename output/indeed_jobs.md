@@ -1,141 +1,209 @@
 # 🟦 Indeed — Syrine's Roles
-*Last updated: 2026-10-02 20:11 UTC*
+*Last updated: 2026-10-03 00:02 UTC*
 
-**22 new role(s)** since last run · 47 total in last 24h
+**35 new role(s)** since last run · 65 total in last 24h
 
-### [Programmeuse statistique (Contrat)/ Statistical Programmer (Contract)](https://ca.indeed.com/viewjob?jk=094302e39ec14a99) — IQVIA
-- 📍 **Location:** Kirkland, QC, CA
-- 💰 **Salary:** $78k–$104k/yr
+### [Software Developer](https://ca.indeed.com/viewjob?jk=07b3ffd1d62109c6) — Equifax
+- 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [SharePoint Developer - .NET](https://ca.indeed.com/viewjob?jk=4dafba1f65eb6a0b) — Capgemini
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $79k–$101k/yr
+### [Industrial Systems Programmer (Robots and CNC)](https://ca.indeed.com/viewjob?jk=57f0c31ffddc8218) — Safran Systèmes d’Atterrissage Canada Inc.
+- 📍 **Location:** Mirabel, QC, CA
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [AI/Python Developer](https://ca.indeed.com/viewjob?jk=5b4b3ea7e4d94db7) — Capgemini
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $79k–$105k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Developer - PHP](https://ca.indeed.com/viewjob?jk=75244ceabc9122ab) — AppDirect
+### [Programmeur.euse avancé.e, jouabilité / Advanced Gameplay Programmer](https://ca.indeed.com/viewjob?jk=4f2fe7f3a0374fe6) — Warner Bros. Discovery
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [Développeur/Développeuse Logiciel - PHP](https://ca.indeed.com/viewjob?jk=7b9e9558775d88a1) — AppDirect
+### [Programmeur.euse avancé.e, jouabilité / Advanced Gameplay Programmer](https://ca.indeed.com/viewjob?jk=23df8e7577c405b6) — Warner Bros. Discovery
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Programmeur.euse avancé.e, jouabilité / Advanced Gameplay Programmer](https://ca.indeed.com/viewjob?jk=1ef47d4da4f2bc6e) — Warner Bros. Discovery
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Programmeur.euse avancé.e, jouabilité / Advanced Gameplay Programmer](https://ca.indeed.com/viewjob?jk=6dbdbb84e9958c7b) — Warner Bros. Discovery
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Programmeur.euse avancé.e, jouabilité / Advanced Gameplay Programmer](https://ca.indeed.com/viewjob?jk=85fb23c1866ea4af) — Warner Bros. Discovery
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Développeur de logiciel](https://ca.indeed.com/viewjob?jk=1cff2fa2c32e45d3) — RBC
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Développeur(euse) spécialiste - développement et exploitation (DevOps) - Services partagés](https://ca.indeed.com/viewjob?jk=bc0629c2804eec26) — Intact
+- 📍 **Location:** Laval, QC, CA
+- 💰 **Salary:** $119k–$145k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Développeur(euse) spécialiste - développement et exploitation (DevOps) - Services partagés](https://ca.indeed.com/viewjob?jk=b588c493d1ab50d2) — Intact
+- 📍 **Location:** Montréal, QC, CA
+- 💰 **Salary:** $119k–$145k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Développeur(euse) spécialiste - développement et exploitation (DevOps) - Services partagés](https://ca.indeed.com/viewjob?jk=3d7a85853eff5258) — Intact
+- 📍 **Location:** Saint-Hyacinthe, QC, CA
+- 💰 **Salary:** $119k–$145k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [DevOps Specialist - Shared Services](https://ca.indeed.com/viewjob?jk=9c09dbb27ecb2b88) — Intact
+- 📍 **Location:** Montréal, QC, CA
+- 💰 **Salary:** $119k–$145k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [DevOps Specialist - Shared Services](https://ca.indeed.com/viewjob?jk=cea547bd1efe8778) — Intact
+- 📍 **Location:** Laval, QC, CA
+- 💰 **Salary:** $119k–$145k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [DevOps Specialist - Shared Services](https://ca.indeed.com/viewjob?jk=7046bc89dcf4bd25) — Intact
+- 📍 **Location:** Saint-Hyacinthe, QC, CA
+- 💰 **Salary:** $119k–$145k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Architecte TI – Infrastructures, DevOps et gestion de projets](https://ca.indeed.com/viewjob?jk=c8d766fe07d121b5) — Microcom Development
+- 📍 **Location:** Montréal, QC, CA
+- 💰 **Salary:** $75k–$95k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Développeur/Développeuse Logiciel - PHP](https://ca.indeed.com/viewjob?jk=726dd98e6efc3c67) — AppDirect
 - 📍 **Location:** Montréal, QC, CA
 - 💰 **Salary:** $95k–$120k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [Premier développeur de logiciel spécialisé dans les tests (Axé sur le développement)](https://ca.indeed.com/viewjob?jk=355ca5120e6b3376) — RBC
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [Systems Designer - Ingénieur/développeur systèmes](https://ca.indeed.com/viewjob?jk=56f4269c75687140) — Grantek Systems Integration
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [IT Product Owner – CCaaS Platform Development & Rollout](https://ca.indeed.com/viewjob?jk=a3ad83b10aec90d2) — Intact
-- 📍 **Location:** Laval, QC, CA
-- 💰 **Salary:** $94k–$115k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [IT Product Owner – CCaaS Platform Development & Rollout](https://ca.indeed.com/viewjob?jk=6b818aa91565e7f4) — Intact
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $94k–$115k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [Sr Data Analyst (12 months) - 030 EN](https://ca.indeed.com/viewjob?jk=fe4b41215e33133f) — Export Development Canada
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $97k–$129k/yr
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Analyst II, Legal Claims & Casualty (LCC) (12month contract)](https://ca.indeed.com/viewjob?jk=cde80917f7b30848) — Intact
-- 📍 **Location:** Saint-Hyacinthe, QC, CA
-- 💰 **Salary:** $69k–$85k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Analyst II, Legal Claims & Casualty (LCC) (12month contract)](https://ca.indeed.com/viewjob?jk=5b747e549695f7ff) — Intact
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $69k–$85k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [Analyst, Data valorization](https://ca.indeed.com/viewjob?jk=98b0536669bb8db3) — Desjardins
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [Strategy and Business Development Analyst](https://ca.indeed.com/viewjob?jk=ff61e68b36317a4f) — Bombardier
+### [Analyste, Assurance Qualité](https://ca.indeed.com/viewjob?jk=b1d34f865817b1a1) — Bombardier
 - 📍 **Location:** Dorval, QC, CA
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [Analyst, Demand Management](https://ca.indeed.com/viewjob?jk=89fda981cc1e4cf3) — ALDO Group
-- 📍 **Location:** Montréal, QC, CA
+### [Analyste, Coordonnateur assurance qualité](https://ca.indeed.com/viewjob?jk=b1be92544ba8810e) — Bombardier
+- 📍 **Location:** Dorval, QC, CA
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [Asset Planning Analyst](https://ca.indeed.com/viewjob?jk=77201e897a83ee29) — Lyft
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $58k–$72k/yr
+### [Analyste, Assurance Qualité](https://ca.indeed.com/viewjob?jk=9e98f2585f4ad080) — Bombardier
+- 📍 **Location:** Dorval, QC, CA
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [Associate Analyst, Vendor Compliance](https://ca.indeed.com/viewjob?jk=5cade3c3081a8b72) — ALDO Group
-- 📍 **Location:** Montréal, QC, CA
+### [Governance Analyst](https://ca.indeed.com/viewjob?jk=a795d13ba6c31cf4) — Bombardier
+- 📍 **Location:** Dorval, QC, CA
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [Ingénieur(e) ou analyste, analyse d’opérabilité / Engineer or Analyst, Operability Analysis](https://ca.indeed.com/viewjob?jk=4365cd7811ead77c) — Pratt & Whitney
-- 📍 **Location:** Longueuil, QC, CA
+### [Financial Analyst, Engineering](https://ca.indeed.com/viewjob?jk=31ccf2abf292bf83) — Bombardier
+- 📍 **Location:** Dorval, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Business Systems Analyst](https://ca.indeed.com/viewjob?jk=90907775ed9a0aaf) — Bombardier
+- 📍 **Location:** Dorval, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Analyst Sr, Marketing & Sales](https://ca.indeed.com/viewjob?jk=699cde2a62301dcf) — Bombardier
+- 📍 **Location:** Dorval, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [End-to-End Business Process Analyst](https://ca.indeed.com/viewjob?jk=e0540fe3a5de3c23) — Pomerleau
+- 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
+- 🕒 **Posted:** 2026-09-17
 
-### [OPÉRATRICE OU OPÉRATEUR EN INFORMATIQUE CLASSE I (100%) POSTE RÉGULIER](https://ca.indeed.com/viewjob?jk=4b8a8563e2b6da2f) — Riverside School Board
-- 📍 **Location:** Longueuil, QC, CA
-- 💰 **Salary:** $25.61–$28.65/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [Technicien(ne) informatique](https://ca.indeed.com/viewjob?jk=d69aee24e261dfb2) — MRC de Bellechasse
-- 📍 **Location:** Sainte-Claire, QC, CA
-- 💰 **Salary:** $31.48–$43.28/hr
+### [Analyst, Sales and Marketing (French Services) (Hybrid/Telework)](https://ca.indeed.com/viewjob?jk=070af9bec24a189f) — CBC/Radio-Canada
+- 📍 **Location:** Montréal, QC, CA
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Technicien(ne) informatique](https://ca.indeed.com/viewjob?jk=79f2b9fd90368c43) — JobsMedia
-- 📍 **Location:** Saint-lazare-de-bellechasse, QC, CA
-- 💰 **Salary:** $31.48–$43.28/hr
+### [Analyst, Quality Assurance](https://ca.indeed.com/viewjob?jk=f80d83f13a2a5fc7) — Bombardier
+- 📍 **Location:** Dorval, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Analyst, Quality Assurance Coordinator](https://ca.indeed.com/viewjob?jk=9a1ce63ba2bbc472) — Bombardier
+- 📍 **Location:** Dorval, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Analyst, Quality Assurance](https://ca.indeed.com/viewjob?jk=70f2df0ee329a1f2) — Bombardier
+- 📍 **Location:** Dorval, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Technical Support Analyst](https://ca.indeed.com/viewjob?jk=0ffe02fc3f7d0edd) — TECSYS Inc.
+- 📍 **Location:** Montréal, QC, CA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Technicienne ou technicien en informatique – MRC Memphrémagog - SOU20261002-641](https://ca.indeed.com/viewjob?jk=2a96441684c45136) — Centre de services scolaire des Sommets
-- 📍 **Location:** Memphrémagog, QC, CA
-- 💰 **Salary:** $27.78–$37.08/hr
+### [Bilingual Client & Account Analyst](https://ca.indeed.com/viewjob?jk=112f34f9aa3374ce) — Manulife
+- 📍 **Location:** Montréal, QC, CA
+- 💰 **Salary:** $46k–$76k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Analyste soutien technique](https://ca.indeed.com/viewjob?jk=67eaf47f9622ba49) — TECSYS Inc.
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [D - Group Insurance Business Intelligence](https://ca.indeed.com/viewjob?jk=f1510a5e563f2af4) — Beneva
+- 📍 **Location:** Quebec City, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [IT and Business Process Integration Analyst](https://ca.indeed.com/viewjob?jk=8ae7078c268cbf18) — iA Groupe financier / iA Financial Group
+- 📍 **Location:** Quebec City, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Actuarial Analyst](https://ca.indeed.com/viewjob?jk=646e820b6fc56690) — Beneva
+- 📍 **Location:** Quebec City, QC, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Technicien en soutien informatique](https://ca.indeed.com/viewjob?jk=7494d4d4b0480e6a) — Macpek
+- 📍 **Location:** Quebec City, QC, CA
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
