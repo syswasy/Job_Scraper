@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-05 22:35 UTC",
-  "total": 6,
+  "scraped_at": "2026-10-06 20:56 UTC",
+  "total": 4,
   "new_count": 0,
   "jobs": [
     {
@@ -34,30 +34,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533955",
       "date_posted": "2026-09-30",
       "salary": "$3861.00 - $6276.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "California Governor's Office of Emergency Services",
-      "title": "Appeals and Correspondence Analyst",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533383",
-      "date_posted": "2026-09-25",
-      "salary": "$6031.00 - $7547.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "California Governor's Office of Emergency Services",
-      "title": "Analyst II",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523035",
-      "date_posted": "2026-09-25",
-      "salary": "$6031.00 - $7547.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
