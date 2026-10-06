@@ -1,191 +1,148 @@
 # 🟦 Indeed — Syrine's Roles
-*Last updated: 2026-10-06 09:28 UTC*
+*Last updated: 2026-10-06 20:36 UTC*
 
-**29 new role(s)** since last run · 77 total in last 24h
+**25 new role(s)** since last run · 61 total in last 24h
 
-### [Product Analyst – Commercial / Logistics & Transportation](https://ca.indeed.com/viewjob?jk=a6f191d856f1020c) — CGI
+### [Power Platform Developer/ Gen AI Developer](https://ca.indeed.com/viewjob?jk=4609d8ca75764183) — Zernam
 - 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $70k–$105k/yr
+- 💰 **Salary:** $120k–$150k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Machine Programmer](https://ca.indeed.com/viewjob?jk=8855387f49d02280) — CMP Advanced Mechanical Solutions
+- 📍 **Location:** Châteauguay, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Analyst, Strategy & Business Dev.](https://ca.indeed.com/viewjob?jk=737bae76bbb363cf) — Bombardier
+- 📍 **Location:** Saint-Laurent, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Analyste, Strat. & Dev. Affaires 3](https://ca.indeed.com/viewjob?jk=7f09d12742dcad03) — Bombardier
+- 📍 **Location:** Saint-Laurent, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Java Developer with DevOp](https://ca.indeed.com/viewjob?jk=b39567d5695a7bce) — CGI
+- 📍 **Location:** Montréal, QC, CA
+- 💰 **Salary:** $80k–$100k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Research Developer, Frontier AI Incubation, DeepMind](https://ca.indeed.com/viewjob?jk=e9455688f365f4b8) — DeepMind
+- 📍 **Location:** Montréal, QC, CA
+- 💰 **Salary:** $185k–$190k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [V.I.E. Programmer Analyst](https://ca.indeed.com/viewjob?jk=e153bb9c5a0d98ff) — Société Générale
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Early Careers: Junior C#/SQL Developer & Data Analytics](https://ca.indeed.com/viewjob?jk=e3524df053b82132) — Aon
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-18
+
+### [Développeur(euse) Full Stack](https://ca.indeed.com/viewjob?jk=903041f3fb22027c) — 1st Reporting
+- 📍 **Location:** Pointe-Claire, QC, CA
+- 💰 **Salary:** $50k–$75k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Configurateur/Développeur – Robotisation de processus](https://ca.indeed.com/viewjob?jk=56a35342fc9d1b80) — Dempton Groupe Conseil
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Développeur de recherche, incubation de l'IA de pointe, DeepMind](https://ca.indeed.com/viewjob?jk=5196005be62ff864) — DeepMind
+- 📍 **Location:** Montréal, QC, CA
+- 💰 **Salary:** $185k–$190k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Développeur II](https://ca.indeed.com/viewjob?jk=e884af50c9fb535e) — Hydro Québec
+- 📍 **Location:** Montréal, QC, CA
+- 💰 **Salary:** $81k–$135k/yr
+- **Work mode:** On-site
+- **Job type:** temporary, fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Développeur Java sénior](https://ca.indeed.com/viewjob?jk=2ddd4058a8f498a5) — TECSYS Inc.
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-05
 
-### [Spécialiste, Ingénierie Logicielle / Specialist, Software Engineering](https://ca.indeed.com/viewjob?jk=5742814f5d08e42f) — Pratt & Whitney
+### [Conseiller DevOps / DevSecOps](https://ca.indeed.com/viewjob?jk=38e89689e3ac4674) — Dempton Groupe Conseil
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Financial Planning and Analysis Analyst (PA&A)](https://ca.indeed.com/viewjob?jk=3168c2e01132f1a8) — BRP
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Analyste, systèmes et opérations RH l People Operations Systems Analyst](https://ca.indeed.com/viewjob?jk=6df285f5e6c43eb2) — Medisca
+- 📍 **Location:** Montréal, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Operations Program Analyst / Engineer](https://ca.indeed.com/viewjob?jk=d906ff9a7437e0a4) — Pratt & Whitney
 - 📍 **Location:** Longueuil, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Développeur(euse) II - Fullstack](https://ca.indeed.com/viewjob?jk=e01f0f8fbe83f6dc) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Développeur II - IA classique](https://ca.indeed.com/viewjob?jk=e1680cfd739cf4b7) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Développeur (euse) II - Géospatiale](https://ca.indeed.com/viewjob?jk=6c03141fb2970af5) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Développeur II](https://ca.indeed.com/viewjob?jk=541170082784f284) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Développeur II - Service Now](https://ca.indeed.com/viewjob?jk=db8793a6b28b5591) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Développeur(euse) II - Simulation du réseau](https://ca.indeed.com/viewjob?jk=f41021c428d1d6f6) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Développeur(euse) II](https://ca.indeed.com/viewjob?jk=209bde1ace2607d8) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Développeur II - SAP BW](https://ca.indeed.com/viewjob?jk=1938f929f0ef600a) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Développeur II](https://ca.indeed.com/viewjob?jk=5e8a819730ec79f4) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Développeur(euse) II](https://ca.indeed.com/viewjob?jk=be5cf3c6d5bb6651) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Développeur (euse) II - JAVA](https://ca.indeed.com/viewjob?jk=96f49365a8b500eb) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Analyste-développeur Microsoft Dynamics 365 CRM](https://ca.indeed.com/viewjob?jk=4123021bb9c21d2f) — Groupe Tehora
+### [Policy Analyst](https://ca.indeed.com/viewjob?jk=181485d04768efa7) — Medavie
 - 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-09-28
 
-### [Développeur·euse Full Stack Python / React / AWS (Candidats Internationaux et locaux)](https://ca.indeed.com/viewjob?jk=ef35159a65344b3c) — Maplr
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Développeur(euse) BI](https://ca.indeed.com/viewjob?jk=eae65ee3740d1e51) — BEEM
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-04
-
-### [ABSCH/BCH Web Development Consultant](https://ca.indeed.com/viewjob?jk=a2fae3cfe9453f6d) — United Nations
-- 📍 **Location:** Montréal, QC, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [Analyste Produit](https://ca.indeed.com/viewjob?jk=c558b02f4c42f4d9) — CGI
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $70k–$125k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Sr Systems Quality Analyst](https://ca.indeed.com/viewjob?jk=08ea33525065c135) — Telus
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $58k–$80k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Analyste fonctionnel II - Assurance Qualité](https://ca.indeed.com/viewjob?jk=219b01003d8ce356) — Hydro Québec
-- 📍 **Location:** Montréal, QC, CA
-- 💰 **Salary:** $81k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Analyste, Système de gestion de la qualité - focal du site](https://ca.indeed.com/viewjob?jk=ceedff6e26978872) — Bombardier
-- 📍 **Location:** Dorval, QC, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [Analyst, Quality Management System Site Focal](https://ca.indeed.com/viewjob?jk=79b1f8537f2facf6) — Bombardier
-- 📍 **Location:** Dorval, QC, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [Analyst, HR Service Center, Benefits and Absences](https://ca.indeed.com/viewjob?jk=d8457c25139cf02d) — Couche-Tard
-- 📍 **Location:** Laval, QC, CA
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Assistant Informatique B](https://ca.indeed.com/viewjob?jk=ff78e9fb4d3a297a) — McGill University
-- 📍 **Location:** Montréal, QC, CA
+### [Technicien(ne) en informatique](https://ca.indeed.com/viewjob?jk=ca67fca88fb0d01d) — JCB Construction Canada
+- 📍 **Location:** Brossard, QC, CA
 - **Work mode:** On-site
 - **Job type:** parttime
-- 🕒 **Posted:** 2026-10-05
-
-### [Programmer analyst, System and infrastructure operations, maintenance and development](https://ca.indeed.com/viewjob?jk=e1dbb06abeee23cd) — Desjardins
-- 📍 **Location:** Lévis, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Analyste-développeur Microsoft Dynamics 365 CRM](https://ca.indeed.com/viewjob?jk=8c84bd39c284a58d) — Groupe Tehora
-- 📍 **Location:** Lévis, QC, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Analyste-développeur Microsoft Dynamics 365 CRM](https://ca.indeed.com/viewjob?jk=7c07cf74252a44b3) — Groupe Tehora
+### [technicien support informatique / Desktop Support Technician](https://ca.indeed.com/viewjob?jk=7426ffcf3e7cb646) — NTT DATA
+- 📍 **Location:** Dorval, QC, CA
+- 💰 **Salary:** $58k–$78k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-17
+
+### [Développeur, système d'intelligence d'affaires BI](https://ca.indeed.com/viewjob?jk=d8ad221c8d6a0de2) — Familiprix
+- 📍 **Location:** Quebec City, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Développeur logiciel embarqué](https://ca.indeed.com/viewjob?jk=6adcb95a37d81a7f) — Opsens
 - 📍 **Location:** Quebec City, QC, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Développeur(euse) en géomatique](https://ca.indeed.com/viewjob?jk=d6b98b35a6abf092) — CGI
+### [DevOps (logiciel d'officine Priorx)](https://ca.indeed.com/viewjob?jk=a3c8304823c89ddd) — Familiprix
 - 📍 **Location:** Quebec City, QC, CA
-- 💰 **Salary:** $50k–$100k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-09-24
 
-### [Analyste-programmeur ou analyste-programmeuse, Automatisation d'Infrastructure](https://ca.indeed.com/viewjob?jk=474faa161837e900) — Desjardins
-- 📍 **Location:** Lévis, QC, CA
+### [IT Support Technician](https://ca.indeed.com/viewjob?jk=3f1e1b37eb69ffaf) — MNP
+- 📍 **Location:** Sherbrooke, QC, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Opérateur ou opératrice en informatique - Remplacement à temps complet (2026-10)](https://ca.indeed.com/viewjob?jk=9a17c19c53d7e841) — Cégep de Shawinigan
+- 📍 **Location:** Shawinigan, QC, CA
+- 💰 **Salary:** $25.65–$28.68/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
